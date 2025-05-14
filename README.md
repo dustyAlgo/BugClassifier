@@ -1,8 +1,8 @@
-# 🐞 Bug Prediction using KNN and Logistic Regression
+# Bug Prediction using KNN and Logistic Regression
 
 This project applies machine learning techniques to predict software bugs using the dataset `Antfile17.CSV`. The main goal is to classify whether a software module contains a bug (1) or not (0) based on 20 features.
 
-## 📂 Dataset
+## Dataset
 
 - **File:** `Antfile17.CSV`
 - **Features:** 20 software metrics (columns)
@@ -10,7 +10,7 @@ This project applies machine learning techniques to predict software bugs using 
 
 ---
 
-## ⚙️ Project Structure
+## Project Structure
 
 ### 🔹 KNN Classifier
 Applies the K-Nearest Neighbors algorithm in two ways:
@@ -46,7 +46,7 @@ Implements Logistic Regression with model evaluation and visualization.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all required packages:
 
